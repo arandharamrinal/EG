@@ -1,5 +1,5 @@
 # EG
-Computes energy and force for gas-phase Ethylene Glycol (EG) (Fitted using MP2/aug-cc-pVTZ)
+Computes energy and force for gas-phase Ethylene Glycol (EG)
 ============================================================
 Usage in an MD code
 -------------------
